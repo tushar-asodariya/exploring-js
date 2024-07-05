@@ -1,1 +1,0 @@
-Hello, this is an example of using createWriteStream in Node.js!
